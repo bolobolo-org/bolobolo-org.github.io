@@ -1,2 +1,3 @@
-# bolobolo-org.github.io
-github pages for bolobolo.org
+# bolo'bolo
+
+Welcome wanderer.
