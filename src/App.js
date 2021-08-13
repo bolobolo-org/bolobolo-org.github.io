@@ -33,6 +33,7 @@ const App = ({ pages }) => {
     <h2>Kontakt</h2>
     <p>krispin (at) posteo.de</p>
     <p>Last Update: ${(new Date()).toISOString()}</p>
+    <p>Quelltext: <a target="_blank" href="https://github.com/bolobolo-org/bolobolo-org.github.io">https://github.com/bolobolo-org/bolobolo-org.github.io</a></p>
   `
 }
 
