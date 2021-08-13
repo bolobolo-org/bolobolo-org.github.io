@@ -32,6 +32,7 @@ const App = ({ pages }) => {
     <${Content} pages=${pages} />
     <h2>Kontakt</h2>
     <p>krispin (at) posteo.de</p>
+    <p>Last Update: ${(new Date()).toISOString()}</p>
   `
 }
 
