@@ -2,7 +2,7 @@ const { promises: fs } = require("fs");
 const { html } = require('htm/preact')
 const showdown  = require('showdown')
 const render = require('preact-render-to-string')
-const Index = require('./Index.js')
+const Index = require('./index.js')
 
 const converter = new showdown.Converter()
 
