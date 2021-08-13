@@ -1,3 +1,3 @@
 # Wissen
 
-- [Wikipedia als buchähnlicheres Leseerlebnis](https://encyclopedia.marginalia.nu/)
+- [Wikipedia als buchähnlicheres Leseerlebnis (Englisch)](https://encyclopedia.marginalia.nu/)
